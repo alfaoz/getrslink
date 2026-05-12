@@ -1,7 +1,7 @@
 return {
-  name        = "rslinkclient",
+  name        = "rslinkspeed",
   version     = "0.1.7",
-  description = "Interactive dashboard for an rslink node: live stats, ping, speedtest, broadcast, listen.",
+  description = "One-shot throughput benchmark between two rslink nodes. Reports B/s, KB/s, MB/s + per-message latency.",
   author      = "alfaoz",
   license     = "MIT",
 
@@ -9,7 +9,7 @@ return {
 
   files = {
     bin = {
-      ["bin/rslinkclient.lua"] = "rslinkclient",
+      ["bin/rslinkspeed.lua"] = "rslinkspeed",
     },
   },
 

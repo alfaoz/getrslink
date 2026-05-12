@@ -1,6 +1,6 @@
 return {
   name        = "rslink-suite",
-  version     = "0.1.5",
+  version     = "0.1.6",
   description = "Meta-package: installs the rslink library, the dashboard, and the lane visualizer.",
   author      = "alfaoz",
   license     = "MIT",

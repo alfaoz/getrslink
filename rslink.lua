@@ -1,6 +1,6 @@
 return {
   name        = "rslink",
-  version     = "0.1.4",
+  version     = "0.1.5",
   description = "rednet-shaped wireless networking on Create's redstone link bus (via CC: Redstone Link Bridge).",
   author      = "alfaoz",
   license     = "MIT",

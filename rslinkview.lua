@@ -1,6 +1,6 @@
 return {
   name        = "rslinkview",
-  version     = "0.1.4",
+  version     = "0.1.5",
   description = "Live 16x16 lane visualizer for an rslink bus. Watches all 256 (i,j) pairs and renders activity.",
   author      = "alfaoz",
   license     = "MIT",

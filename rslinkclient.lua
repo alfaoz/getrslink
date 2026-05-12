@@ -1,6 +1,6 @@
 return {
   name        = "rslinkclient",
-  version     = "0.1.1",
+  version     = "0.1.2",
   description = "Interactive dashboard for an rslink node: live stats, ping, speedtest, broadcast, listen.",
   author      = "alfaoz",
   license     = "MIT",

@@ -7,19 +7,19 @@ return {
 
   packages = {
     rslink = {
-      version     = "0.1.0",
+      version     = "0.1.1",
       description = "rednet-shaped wireless networking library, built on Create's redstone link bus.",
     },
     rslinkclient = {
-      version     = "0.1.0",
+      version     = "0.1.1",
       description = "Interactive dashboard for rslink: stats, ping, speedtest, broadcast.",
     },
     rslinkview = {
-      version     = "0.1.0",
+      version     = "0.1.1",
       description = "Live 16x16 visualizer for rslink lane activity.",
     },
     ["rslink-suite"] = {
-      version     = "0.1.0",
+      version     = "0.1.1",
       description = "Meta-package: installs rslink + rslinkclient + rslinkview.",
     },
   },
